@@ -1,0 +1,9 @@
+{
+  "key.category.autospin.general": "自动转圈 (AutoSpin)",
+  "key.autospin.toggle": "开启/关闭自动转圈",
+  "key.autospin.speed_up": "加快转圈速度",
+  "key.autospin.speed_down": "减慢转圈速度",
+  "message.autospin.enabled": "自动转圈：已开启（速度 %.1f°/tick）",
+  "message.autospin.disabled": "自动转圈：已关闭",
+  "message.autospin.speed": "当前转圈速度：%.1f°/tick"
+}

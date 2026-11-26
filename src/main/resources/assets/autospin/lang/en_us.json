@@ -1,0 +1,9 @@
+{
+  "key.category.autospin.general": "AutoSpin",
+  "key.autospin.toggle": "Toggle Auto-Spin",
+  "key.autospin.speed_up": "Increase Spin Speed",
+  "key.autospin.speed_down": "Decrease Spin Speed",
+  "message.autospin.enabled": "AutoSpin: ON (%.1f°/tick)",
+  "message.autospin.disabled": "AutoSpin: OFF",
+  "message.autospin.speed": "Spin Speed: %.1f°/tick"
+}

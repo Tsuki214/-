@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "autospin",
+  "version": "${version}",
+  "name": "AutoSpin",
+  "description": "Toggle automatic in-place player rotation (spinning) in Minecraft 1.21.11.",
+  "authors": [
+    "AutoSpin"
+  ],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.example.autospin.AutoSpinClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
